@@ -1,4 +1,3 @@
-com\portfolio\ng\Service\SEducacion.class
 com\portfolio\ng\Controller\PersonaController.class
 com\portfolio\ng\Repository\REducacion.class
 com\portfolio\ng\Security\jwt\JwtEntryPoint.class
@@ -9,6 +8,7 @@ com\portfolio\ng\Security\Controller\AuthController.class
 com\portfolio\ng\Security\Dto\JwtDto.class
 com\portfolio\ng\Security\Entity\Rol.class
 com\portfolio\ng\Security\Service\UserDetailsImpl.class
+com\portfolio\ng\Service\Seducacion.class
 com\portfolio\ng\Security\MainSecurity.class
 com\portfolio\ng\NgApplication.class
 com\portfolio\ng\Entity\Educacion.class
